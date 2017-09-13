@@ -1,0 +1,21 @@
+img {
+  height: 300px;
+}
+
+.meow {
+  color: purple;
+  font-style: italic;
+  font-size: 20pt;
+  font-family: fantasy;
+}
+
+.woof {
+  color: orange;
+  font-weight: bolder;
+  font-size: 20pt;
+  font-family: sans-serif;
+}
+
+.container {
+  text-align: center;
+}
